@@ -1,0 +1,17 @@
+.CourseList-header{
+    background-color: aqua;
+}
+
+.CourseList-header:hover{
+    background-color:cornflowerblue;
+}
+
+
+.CourseList-h4{
+    color: green;
+}
+
+.CourseList-h4-hover{
+    background-color:rgb(126, 160, 126);
+}
+

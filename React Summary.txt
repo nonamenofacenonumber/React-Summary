@@ -1,0 +1,26 @@
+React (old version)
+npx create-react-app old-react-app
+npm run start
+
+
+
+
+Vite
+npm create vite@latest vite-react-app -- --template react
+npm install
+npm run dev
+
+
+Nextjs
+npx create-next-app@latest
+
+
+
+Bootstrap
+npm i bootstrap
+npm install react-bootstrap bootstrap
+
+
+Tailwindcss (in Vite) -> command prompt
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
