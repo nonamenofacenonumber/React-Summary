@@ -24,3 +24,6 @@ npm install react-bootstrap bootstrap
 Tailwindcss (in Vite) -> command prompt
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+
+
+npm i uuid
